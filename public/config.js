@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/yellowperps",
   "VITE_SEO_SITE_NAME": "Yellow Perps",
   "VITE_SEO_SITE_DESCRIPTION": "Yellow Perps: the perpetuals exchange made for every BNB trader.",
-  "VITE_SEO_SITE_URL": "https://yellowperps.com",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/yellow-perps-6567/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@yellowperps",
